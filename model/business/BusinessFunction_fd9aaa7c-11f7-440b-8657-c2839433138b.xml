@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación Compras"
-    id="fd9aaa7c-11f7-440b-8657-c2839433138b"/>
+    name="Facturación"
+    id="fd9aaa7c-11f7-440b-8657-c2839433138b"
+    documentation="Func:&#xD;&#xA;-Gestión de Facturas (Repositorio).&#xD;&#xA;-WF de revisión y aprobación.&#xD;&#xA;-Traspasos.&#xD;&#xA;-Regalos Web.&#xD;&#xA;-Devoluciones.&#xD;&#xA;&#xD;&#xA;Alcance:&#xD;&#xA;-Facturas compras directas.&#xD;&#xA;-Facturas compras Centralizadas.&#xD;&#xA;"/>
