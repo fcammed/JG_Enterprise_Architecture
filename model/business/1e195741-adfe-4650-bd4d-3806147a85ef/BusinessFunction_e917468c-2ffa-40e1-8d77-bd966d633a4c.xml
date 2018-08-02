@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catálogo de Productos"
+    id="e917468c-2ffa-40e1-8d77-bd966d633a4c"
+    documentation="En el alcance lo que tiene que ver con Catálogo de Productos (su Marketing Offline). &#xD;&#xA;&#xD;&#xA;-Procesos:&#xD;&#xA;   -Alta/Mantenimiento Artículos Nacional.&#xD;&#xA;   -Alta/Mantenimiento Artículos Internacional.&#xD;&#xA;&#xD;&#xA;-Subprocesos:&#xD;&#xA;   -Precarga de artículos proveedores internacionales.&#xD;&#xA;   -Precarga de artículos proveedores nacionales.&#xD;&#xA;   -Gestión de árticulos seleccionados.&#xD;&#xA;   -Integración EDI"/>

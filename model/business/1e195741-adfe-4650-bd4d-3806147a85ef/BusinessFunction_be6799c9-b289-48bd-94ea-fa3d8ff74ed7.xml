@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturación"
+    id="be6799c9-b289-48bd-94ea-fa3d8ff74ed7"
+    documentation="- Facturación pedidos internacionales.&#xD;&#xA;- Facturación pedidos nacionales.&#xD;&#xA;- Facturación Ventas Web.&#xD;&#xA;&#xD;&#xA;Info&#xD;&#xA;-Pedido-Albarán-Factura&#xD;&#xA;-Facturación&#xD;&#xA;-Automatización de procesos&#xD;&#xA;-Incidencias de facturación&#xD;&#xA;"/>
