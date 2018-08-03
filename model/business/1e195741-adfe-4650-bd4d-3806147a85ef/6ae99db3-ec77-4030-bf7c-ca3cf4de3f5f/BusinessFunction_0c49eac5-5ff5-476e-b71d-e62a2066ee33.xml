@@ -1,5 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Product Information"
+    name="Product Information Management"
     id="0c49eac5-5ff5-476e-b71d-e62a2066ee33"
-    documentation="Esto sería Marketing Offline en terminología Juguetos&#xD;&#xA;&#xD;&#xA;-PIM, (atributos , descripciones, textos)&#xD;&#xA;   -Referencial&#xD;&#xA;   -Descripción producto.&#xD;&#xA;   -Descripción packaging.&#xD;&#xA;-DAM, (Media)&#xD;&#xA;   -Informacional producto&#xD;&#xA;   -Informacional packaging&#xD;&#xA;"/>
+    documentation="Mantenimiento de información relacionada con los productos, para ser usada en servicios online y catálogos, ...&#xD;&#xA;Esto se considera &quot;Marketing Offline&quot; en terminología Juguetos&#xD;&#xA;&#xD;&#xA;-PIM, (atributos , descripciones, textos)&#xD;&#xA;   -Descripción producto.&#xD;&#xA;   -Descripción packaging.&#xD;&#xA;-DAM, (Media)&#xD;&#xA;   -Informacional producto&#xD;&#xA;   -Informacional packaging&#xD;&#xA;"/>
